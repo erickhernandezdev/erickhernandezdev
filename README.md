@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/erick-hernandez-ucr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;
   <a href="mailto:erickhernandezhdez18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -83,21 +84,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SAGA UCR</h3>
       <div align="center">
         <img src="img/SAGA.png" width="400" alt="SAGA UCR">
-        <p><b>Supervised Practice · NestJS · Next.js · TypeScript · Oracle DB</b></p>
         <p>Contributed to centralizing UCR's scientific production repositories into a unified platform. Delivered the full-stack Units module with 10+ REST API endpoints, filtering, pagination, and data export. Achieved ~90% unit test coverage across a 21-person engineering team.</p>
         <p><i>Private repository — institutional project of the University of Costa Rica.</i></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">AirBllab</h3>
       <div align="center">
         <a href="https://github.com/erickhernandezdev/AirBllab" target="_blank">
           <img src="img/AirBllab.png" width="400" alt="AirBllab">
         </a>
-        <p><b>Django · PostgreSQL · YubiKey · Production Server</b></p>
         <p>Full-stack accommodation booking platform with 4+ end-to-end user flows, enterprise-grade security including YubiKey-based two-factor authentication, and deployed on a production server.</p>
         <p>
           <a href="https://github.com/erickhernandezdev/AirBllab" target="_blank">
@@ -109,12 +106,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">FitLink</h3>
       <div align="center">
+      <br>
         <a href="https://github.com/erickhernandezdev/FitLink-App" target="_blank">
           <img src="img/FitLink.png" width="400" alt="FitLink">
         </a>
-        <p><b>React Native · Expo · Supabase · Jest</b></p>
         <p>Cross-platform mobile app for iOS and Android covering workout logging, history, progress tracking, and custom routines across 10+ screens. Achieved ~90% test coverage with Jest and React Testing Library.</p>
         <p>
           <a href="https://github.com/erickhernandezdev/FitLink-App" target="_blank">
@@ -124,12 +120,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">EventMaker</h3>
       <div align="center">
+      <br>
         <a href="https://github.com/erickhernandezdev/EventMaker" target="_blank">
           <img src="img/EventMaker.png" width="400" alt="EventMaker">
         </a>
-        <p><b>React · Node.js · Oracle Cloud · RESTful API</b></p>
         <p>Full-stack event reservation system enabling concurrent bookings through a RESTful API with 20+ endpoints and a relational database of 10+ tables on Oracle Cloud Infrastructure.</p>
         <p>
           <a href="https://github.com/erickhernandezdev/EventMaker" target="_blank">
@@ -141,10 +136,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Vodcast</h3>
       <div align="center">
+      <br>
         <img src="img/Vodcast.png" width="400" alt="Vodcast">
-        <p><b>Unity · C# · Gemini API · AI</b></p>
         <p>AI-powered virtual agent with a 3-stage conversational pipeline: Speech-to-Text, Gemini LLM response generation, and Text-to-Speech. Reduced end-to-end response time by 50% through asynchronous optimization.</p>
         <p>
           <a href="https://github.com/erickhernandezdev/virtual-agent" target="_blank">
@@ -154,12 +148,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Librosfera</h3>
       <div align="center">
+      <br>
         <a href="https://github.com/erickhernandezdev/Librosfera" target="_blank">
           <img src="img/Librosfera.png" width="400" alt="Librosfera">
         </a>
-        <p><b>React · Node.js · MySQL</b></p>
         <p>Full-stack e-commerce platform for books with complete purchase flow across 4 stages: search, filtering, cart, and payment, supporting a catalog of 30+ products with responsive UI.</p>
         <p>
           <a href="https://github.com/erickhernandezdev/Librosfera" target="_blank">
